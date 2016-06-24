@@ -1,33 +1,58 @@
-h1{
-  text-align:center;;
-  background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTV0q4twXrJ5dO1gYT7s7Eaz-bMNBTfn7c4Hh22LuDptKr71Qf8);
+body {
+border: 90px solid #000000;
+background-image:url("http://www.hdwallpapers.in/walls/water_splash_windshield-wide.jpg");
+background-attachment: fixed;
+}
+
+strong {
+  color: white;
+  font-size: 150%;
+}
+
+em {
+  color: white;
+}
+
+cite {
+  color: white;
+  font-size: 220%;
+  box-sizing:23%;
+}
+p {
+  color: white;
+  font-size: 200%;
+  border-radius: 300px;
+}
+img {
+  width: 700px;
+  border-radius:1300px;
+  margin: 50px;
+  border: 10px solid #000000;
+}
+
+.header h1 {
+  text-align: center;
   font-size: 400%;
-  font-color: blue;
-  background-position: center;
-  background-image-width:250Px;
-
-}
-nav {
-  text-align:right;
+  color: white;
+  text-shadow:10px;
+  background-image: url("http://www.hdwallpapers.in/walls/water_splash_windshield-wide.jpg");
 }
 
-img{
-  border: 5px solid gray;
-  border-radius: 200%
-}
+a{
+  color:white;
 
-element.style {
 }
-.container {
-    width: 300%;
-    max-width: 100rem;
-    padding-left: 3rem;
-    padding-right: 3rem;
-    margin-left: auto;
-    margin-right: auto;
+.Paragraph_box{
+  padding: 175px;
+  border:150px;solid #000000;
+  margin: 250px;
+}
+.box{
+  border: solid;
+  margin-right:2px;
 }
 h2{
-  text-decoration-style: wavy;
-  text-align: justify;
-  font-size: 150%
+  color:white;
+  text-align: left;
+  font-size: 20px;
 }
