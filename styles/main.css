@@ -1,0 +1,33 @@
+h1{
+  text-align:center;;
+  background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTV0q4twXrJ5dO1gYT7s7Eaz-bMNBTfn7c4Hh22LuDptKr71Qf8);
+  font-size: 400%;
+  font-color: blue;
+  background-position: center;
+  background-image-width:250Px;
+
+}
+nav {
+  text-align:right;
+}
+
+img{
+  border: 5px solid gray;
+  border-radius: 200%
+}
+
+element.style {
+}
+.container {
+    width: 300%;
+    max-width: 100rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+  text-decoration-style: wavy;
+  text-align: justify;
+  font-size: 150%
+}
